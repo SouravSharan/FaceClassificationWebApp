@@ -6,8 +6,8 @@
 
 ## Tech Stack
   * OpenCV
+  * Keras
   * Flask
-  * Javascript
   * HTML, CSS, Bootstrap
   * Beautiful Soup
 
