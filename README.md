@@ -26,4 +26,4 @@
     LBPH gave the highest accuracy on the dataset.
      
 ## Website
-  The website is mobile friendly. It has a Flask backend and is [hosted on AWS](https://0ca63b28.ngrok.io), using ngrok. 
+  The website is mobile friendly. It has a Flask backend and is  hosted on AWS https://0ca63b28.ngrok.io. 
