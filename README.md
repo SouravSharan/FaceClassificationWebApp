@@ -22,7 +22,7 @@
     OpenCV has 3 face recognition techniques: </br>
       * Eigen Faces
       * Fisher Faces
-      * Local Binary Pattern Histograms
+      * Local Binary Pattern Histograms </br>
     Local Binary Pattern Histograms (LBPH) gave the highest accuracy on my dataset.
      
 ## Website
