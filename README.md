@@ -17,7 +17,7 @@
 ## Face Detection and Classification
   Several approches were tried for face classification. 
   * **Convolutional neural network** </br>
-    Even though training accuracy was high, the model didn't work well on test set. Possible reasons could be less data.
+    Even though training accuracy was high, the model didn't work well on test set, probably due to less data.
   * **OpenCV_contrib face detection** </br>
     OpenCV has 3 face recognition techniques: </br>
       * Eigen Faces
