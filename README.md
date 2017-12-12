@@ -1,8 +1,8 @@
-# FaceClassificationWebApp
+# Face Classification Web App
 
 Face It is a simple Web Application, which when given an image, is able to detect a face (show with a boundary box) and give a result saying whether **Narendra Modi** and/or **Arvind Kejriwal** are present in the image or not. </br>
 
-[The project is available here](https://0ca63b28.ngrok.io/)
+The project is available [here](https://0ca63b28.ngrok.io/).
 
 <img src="https://github.com/SouravSharan/FaceClassificationWebApp/blob/master/demo/Screenshot_2017-12-11-21-44-47-093_com.android.chrome.png" height=500> <img src="https://github.com/SouravSharan/FaceClassificationWebApp/blob/master/demo/Screenshot_2017-12-11-21-44-17-681_com.android.chrome.png" height=500> <img src="https://github.com/SouravSharan/FaceClassificationWebApp/blob/master/demo/Screenshot_2017-12-11-21-43-50-915_com.android.chrome.png" height=500> 
 
@@ -14,7 +14,7 @@ Face It is a simple Web Application, which when given an image, is able to detec
   * Beautiful Soup
 
 ## Face Detection and Classification
-  Data was collected by scraping images from google using Beautiful Soup.
+  Data was collected by scraping images from google using Beautiful Soup. Around 500 images were downloaded for each class, from which around 150 faces which were fit for training were extracted. A sample dataset has been uploaded [here](https://github.com/SouravSharan/FaceClassificationWebApp/tree/master/sample_data). 
 
 ## Face Detection and Classification
   Several approches were tried for face classification. 
