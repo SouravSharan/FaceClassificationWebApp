@@ -13,7 +13,7 @@ The project is available [here](https://0ca63b28.ngrok.io/).
   * HTML, CSS, Bootstrap
   * Beautiful Soup
 
-## Face Detection and Classification
+## Data Collection
   Data was collected by scraping images from google using Beautiful Soup. Around 500 images were downloaded for each class, from which around 150 faces which were fit for training were extracted. A sample dataset has been uploaded [here](https://github.com/SouravSharan/FaceClassificationWebApp/tree/master/sample_data). 
 
 ## Face Detection and Classification
