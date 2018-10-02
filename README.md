@@ -27,4 +27,4 @@ Face It is a simple Web Application, which when given an image, is able to detec
     LBPH gave the highest accuracy on the dataset.
      
 ## Website
-  The website is mobile friendly. It has a Flask backend and is  hosted on AWS https://af4c02eb.ngrok.io/. 
+  The website is mobile friendly. It has a Flask backend. 
