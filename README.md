@@ -2,7 +2,6 @@
 
 Face It is a simple Web Application, which when given an image, is able to detect a face (show with a boundary box) and give a result saying whether **Narendra Modi** and/or **Arvind Kejriwal** are present in the image or not. </br>
 
-The project is available [here](https://af4c02eb.ngrok.io/).
 
 <img src="https://github.com/SouravSharan/FaceClassificationWebApp/blob/master/demo/Screenshot_2017-12-11-21-44-47-093_com.android.chrome.png" height=500> <img src="https://github.com/SouravSharan/FaceClassificationWebApp/blob/master/demo/Screenshot_2017-12-11-21-44-17-681_com.android.chrome.png" height=500> <img src="https://github.com/SouravSharan/FaceClassificationWebApp/blob/master/demo/Screenshot_2017-12-11-21-43-50-915_com.android.chrome.png" height=500> 
 
